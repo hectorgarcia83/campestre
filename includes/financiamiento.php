@@ -9,7 +9,7 @@
         <div class="plan animated hiding" data-animation="fadeInUp" data-delay="0">
           <div class="plan-heading">
             <h3>Contado</h3>
-            <p>Lorem Ipsum</p>
+            <!--<p>Lorem Ipsum</p>-->
             <div class="circle-price">
               <span>$600 m2</span>
             </div>
@@ -31,7 +31,6 @@
         <div class="plan animated hiding" data-animation="fadeInUp" data-delay="500">
           <div class="plan-heading">
             <h3>Contado</h3>
-            <p>Lorem Ipsum</p>
             <div class="circle-price">
               <span>$600 m2</span>
             </div>
@@ -53,7 +52,6 @@
         <div class="plan animated hiding selected" data-animation="fadeInUp" data-delay="1000">
           <div class="plan-heading">
             <h3>Financiado</h3>
-            <p>Lorem Ipsum</p>
             <div class="circle-price">
               <span>$600 m2</span>
             </div>
@@ -75,7 +73,6 @@
         <div class="plan animated hiding" data-animation="fadeInUp" data-delay="1500">
           <div class="plan-heading">
             <h3>Financiado</h3>
-            <p>Lorem Ipsum</p>
             <div class="circle-price">
               <span>$600 m2</span>
             </div>

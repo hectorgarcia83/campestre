@@ -2,7 +2,7 @@
 <html>
   <head>
   	<meta charset="utf-8">
-    <title>Floyd - One Page Responsive Parallax Theme</title>
+    <title>Residencial Campestre El Álamo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -30,9 +30,9 @@
     <link rel="shortcut icon" href="images/favicon.ico">
 
     <!-- Color Scheme -->
-    <link id="test" rel="stylesheet" type="text/css" href="css/colors/red.css">
+    <!--<link id="test" rel="stylesheet" type="text/css" href="css/colors/red.css">-->
     <!-- <link rel="stylesheet" type="text/css" href="css/colors/blue.css"> -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/colors/green.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/colors/green.css">
     <!-- <link rel="stylesheet" type="text/css" href="css/colors/black.css"> -->  
     <!-- <link rel="stylesheet" type="text/css" href="css/colors/yellow.css"> -->
 
@@ -88,7 +88,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#home" id="logo">Floyd</a>
+        <a class="navbar-brand" href="#home" id="logo"></a>
       </div>
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="nav navbar-nav navbar-right" id="nav">

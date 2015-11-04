@@ -428,6 +428,10 @@ p {
   color: #ccc;
 }
 
+#numbers a:hover{
+  text-decoration: none;
+}
+
 /* =Services
 -------------------------------------------------------------- */
 

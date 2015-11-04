@@ -3,35 +3,27 @@
     <div id="testimonials" class="parallax">
       <div class="parallax-overlay">
         <div class="container">
-          <h1>What our clients say</h1>
+          <h1>Todo lo que estabas buscando en un mismo lugar</h1>
           <hr>
           <!-- Testimonials Slider -->   
           <div class="testimonials-slider animated hiding" data-animation="fadeInUp">
             <ul class="slides">
               <li>
                 <img src="images/testimonials/1.jpg" alt="">
-                <p class="client-comment">El lugar que estabas esperando</p>
-                <p class="client-name">Jasmine - Virtual Inc.</p>
+                <!--<p class="client-comment">El lugar que estabas esperando</p>
+                <p class="client-name">Jasmine - Virtual Inc.</p>-->
               </li>
               <li>
                 <img src="images/testimonials/2.jpg" alt="">
-                <p class="client-comment">Disfrut al máximo tus fines de semana</p>
-                <p class="client-name">Erick - Social Group</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
-                <p class="client-comment">Tienes que vivirlo</p>
-                <p class="client-name">Lisa - Mosbius Design</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
-                <p class="client-comment">Excelente opción para invertir</p>
-                <p class="client-name">Lisa - Mosbius Design</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
-                <p class="client-comment">La mejor plusvalía</p>
-                <p class="client-name">Lisa - Mosbius Design</p>
               </li>
             </ul>
           </div>
