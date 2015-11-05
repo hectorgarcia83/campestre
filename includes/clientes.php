@@ -10,20 +10,24 @@
             <ul class="slides">
               <li>
                 <img src="images/testimonials/1.jpg" alt="">
-                <!--<p class="client-comment">El lugar que estabas esperando</p>
-                <p class="client-name">Jasmine - Virtual Inc.</p>-->
+                <p class="client-comment">El lugar que estabas esperando</p>
+                <!--<p class="client-name">Jasmine - Virtual Inc.</p>-->
               </li>
               <li>
                 <img src="images/testimonials/2.jpg" alt="">
+                <p class="client-comment">Disfrut al máximo tus fines de semana</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
+                <p class="client-comment">Tienes que vivirlo</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
+                <p class="client-comment">Excelente opción para invertir</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">
+                <p class="client-comment">La mejor plusvalía</p>
               </li>
             </ul>
           </div>
@@ -32,8 +36,10 @@
       </div>
     </div>
     <!-- End Testimonials -->
+    
+    <!--
     <div class="container">
-      <!-- Clients Carousel -->
+    
       <div id="clients-carousel" class="owl-carousel">
         <div class="item"><img src="images/clients/logo1.png" alt=""></div>
         <div class="item"><img src="images/clients/logo2.png" alt=""></div>
@@ -42,6 +48,7 @@
         <div class="item"><img src="images/clients/logo5.png" alt=""></div>
         <div class="item"><img src="images/clients/logo6.png" alt=""></div>
       </div>
-      <!-- End Clients Carousel -->
+  
     </div>
+  -->
   </section>
