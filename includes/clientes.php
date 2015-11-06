@@ -15,7 +15,7 @@
               </li>
               <li>
                 <img src="images/testimonials/2.jpg" alt="">
-                <p class="client-comment">Disfrut al máximo tus fines de semana</p>
+                <p class="client-comment">Disfruta al máximo tus fines de semana</p>
               </li>
               <li>
                 <img src="images/testimonials/3.jpg" alt="">

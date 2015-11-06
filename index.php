@@ -59,6 +59,7 @@
         <!-- Home Slider -->
         <div class="home-slider">
           <ul class="slides">
+            <!--
             <li>
               <h1>Preventa de terrenos campestres</h1>
             </li>
@@ -67,6 +68,16 @@
             </li>
             <li>
               <h1>Km 7 carretera a Culiacancito</h1>
+            </li>
+          -->
+            <li>
+              <h1>we are creative</h1>
+            </li>
+            <li>
+              <h1>we are smart</h1>
+            </li>
+            <li>
+              <h1>we are floyd</h1>
             </li>
           </ul>
         </div>

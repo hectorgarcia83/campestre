@@ -7,93 +7,93 @@
       </div>
       <!-- Portfolio Filters -->
       <ul id="filters">
-          <li class="filter" data-filter="all">All</li>
-          <li class="filter" data-filter="graphic">Graphic</li>
-          <li class="filter" data-filter="photography">Photography</li>
-          <li class="filter" data-filter="branding">Branding</li>
-          <li class="filter" data-filter="video">Video</li>
+          <li class="filter" data-filter="all">Todo</li>
+          <li class="filter" data-filter="areaverde">Area Verde</li>
+          <li class="filter" data-filter="convivencia">Convivencia</li>
+          <li class="filter" data-filter="alberca">Alberca</li>
+          <li class="filter" data-filter="canchas">Canchas</li>
       </ul>
       <!-- End Portfolio Filters -->
     </div>
     <div class="portfolio-top"></div> 
     <!-- Portfolio Grid -->
     <ul id="portfolio-grid">
-      <li class="mix photography branding mix_all">
-        <img src="images/portfolio/1.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix areaverde branding mix_all">
+        <img src="images/galeria/areaverde/1.png" alt="">
+        <a href="areaverde.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Silk Light</span>
+            <span class="project-name">Area Verde</span>
             <span>Photography / Branding</span>         
           </div>
         </a>
       </li>
-      <li class="mix photography video mix_all">
-        <img src="images/portfolio/2.jpg" alt="">
-        <a href="project-2.html" class="open-project">
+      <li class="mix areaverde video mix_all">
+        <img src="images/galeria/areaverde/2.png" alt="">
+        <a href="areaverde.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Emma</span>
+            <span class="project-name">Area Verde</span>
             <span>Photography / Video</span>
           </div>
         </a>
       </li>
-      <li class="mix graphic mix_all">
-        <img src="images/portfolio/3.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix convivencia mix_all">
+        <img src="images/galeria/convivencia/1.png" alt="">
+        <a href="convivencia.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Potrait</span>
+            <span class="project-name">Convivencia</span>
             <span>Graphic</span>
           </div>
         </a>
       </li>
-      <li class="mix photography mix_all">
-        <img src="images/portfolio/4.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix convivencia mix_all">
+        <img src="images/galeria/convivencia/2.png" alt="">
+        <a href="convivencia.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Shana</span>
+            <span class="project-name">Convivencia</span>
             <span>Photography</span>
           </div>
         </a>
       </li>
-      <li class="mix photography mix_all">
-        <img src="images/portfolio/5.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix alberca mix_all">
+        <img src="images/galeria/alberca/1.png" alt="">
+        <a href="alberca.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">The Model</span>
+            <span class="project-name">Alberca</span>
             <span>Photography</span>
           </div>
         </a>
       </li>
-      <li class="mix graphic mix_all">
-        <img src="images/portfolio/6.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix alberca mix_all">
+        <img src="images/galeria/alberca/2.png" alt="">
+        <a href="alberca.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Aleilde</span>
+            <span class="project-name">Alberca</span>
             <span>Graphic</span>
           </div>
         </a>
       </li>
-      <li class="mix branding mix_all">
-        <img src="images/portfolio/7.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix canchas mix_all">
+        <img src="images/galeria/cancha/1.png" alt="">
+        <a href="cancha.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Xo Bella</span>
+            <span class="project-name">Cancha</span>
             <span>Branding</span>
           </div>
         </a>
       </li>
-      <li class="mix graphic mix_all">
-        <img src="images/portfolio/8.jpg" alt="">
-        <a href="project-1.html" class="open-project">
+      <li class="mix canchas mix_all">
+        <img src="images/galeria/cancha/2.png" alt="">
+        <a href="cancha.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Happy Pill</span>
+            <span class="project-name">Cancha</span>
             <span>Graphic</span>
           </div>
         </a>

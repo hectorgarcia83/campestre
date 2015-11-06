@@ -1,10 +1,10 @@
 $(document).ready(function(){
 	//Home Image Slider
 	$.backstretch([
-	  "images/BGInicio/Alberca.png",
-	  "images/BGInicio/Entrada.png",
-	  "images/BGInicio/Palapa.png",
-	  "images/BGInicio/VistaAerea.png",
+	  "images/BGInicio/Alberca.jpg",
+	  "images/BGInicio/Entrada.jpg",
+	  "images/BGInicio/Palapa.jpg",
+	  "images/BGInicio/VistaAerea.jpg",
 	], {duration: 4500, fade: 'slow'});
 	
 });

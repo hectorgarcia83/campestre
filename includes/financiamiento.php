@@ -20,9 +20,11 @@
             <li>Descuento del 10%<br>&nbsp;</li>
             <li>sobre el valor total del terreno</li>
           </ul>
+          <!--
           <div class="buy-now">
             <a class="btn btn-custom">Buy now</a>
           </div>
+        -->
         </div>
         <!-- End Pricing Table -->
       </div>
@@ -41,9 +43,6 @@
             <li>&nbsp;<br>&nbsp;</li>
             <li>&nbsp;<br>&nbsp;</li>
           </ul>
-          <div class="buy-now">
-            <a class="btn btn-custom">Buy now</a>
-          </div>
         </div>
         <!-- End Pricing Table -->
       </div>
@@ -62,9 +61,6 @@
             <li>se cobrará un interés del 12%</li>
             <li>sobre el valor total del terreno</li>
           </ul>
-          <div class="buy-now">
-            <a class="btn btn-custom">Buy now</a>
-          </div>
         </div>
         <!-- End Pricing Table -->
       </div>
@@ -83,9 +79,6 @@
             <li>se cobrará un interés del 12%</li>
             <li>sobre el valor total del terreno</li>
           </ul>
-          <div class="buy-now">
-            <a class="btn btn-custom">Buy now</a>
-          </div>
         </div>
         <!-- End Pricing Table -->
       </div>
