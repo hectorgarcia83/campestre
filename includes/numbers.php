@@ -20,7 +20,7 @@
         </div>
         <div class="col-md-3 col-sm-3 col-xs-6">          
           <span class="counter animated hiding" data-animation="fadeInDown" data-delay="1000">
-            <a href="https://plus.google.com/" target="_blank">
+            <a href="https://plus.google.com/u/0/110048073262611509878/posts?hl=es" target="_blank">
               <i class="fa fa-google-plus fa-4x"></i>
             </a>
             <!--<span class="value" data-from="0" data-to="380">380</span>

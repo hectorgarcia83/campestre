@@ -24,7 +24,7 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Area Verde</span>
-            <span>Photography / Branding</span>         
+            <!--<span>Photography / Branding</span>-->
           </div>
         </a>
       </li>
@@ -34,7 +34,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Area Verde</span>
-            <span>Photography / Video</span>
           </div>
         </a>
       </li>
@@ -44,7 +43,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Convivencia</span>
-            <span>Graphic</span>
           </div>
         </a>
       </li>
@@ -54,7 +52,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Convivencia</span>
-            <span>Photography</span>
           </div>
         </a>
       </li>
@@ -64,7 +61,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Alberca</span>
-            <span>Photography</span>
           </div>
         </a>
       </li>
@@ -74,7 +70,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Alberca</span>
-            <span>Graphic</span>
           </div>
         </a>
       </li>
@@ -83,8 +78,7 @@
         <a href="cancha.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Cancha</span>
-            <span>Branding</span>
+            <span class="project-name">Canchas</span>
           </div>
         </a>
       </li>
@@ -93,8 +87,7 @@
         <a href="cancha.html" class="open-project">
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
-            <span class="project-name">Cancha</span>
-            <span>Graphic</span>
+            <span class="project-name">Canchas</span>
           </div>
         </a>
       </li>

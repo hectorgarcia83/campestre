@@ -71,19 +71,19 @@
             </li>
           -->
             <li>
-              <h1>we are creative</h1>
+              <h1>campestre el alamo</h1>
             </li>
             <li>
-              <h1>we are smart</h1>
+              <h1>lotes campestres</h1>
             </li>
             <li>
-              <h1>we are floyd</h1>
+              <h1>mayor plusvalía</h1>
             </li>
           </ul>
         </div>
         <!-- End Home Slider -->               
         <hr>
-        <p class="center"><a href="#about" class="btn btn-empty btn-lg">Get Started</a></p>
+        <p class="center"><a href="#about" class="btn btn-empty btn-lg">¡CONÓCENOS!</a></p>
       </div>
     </div>
   </section>
@@ -187,7 +187,7 @@
           </a>
         </li>
         <li>
-          <a href="https://plus.google.com/" target="_blank">
+          <a href="https://plus.google.com/u/0/110048073262611509878/posts?hl=es" target="_blank">
             <span class="social-icon">
               <i class="fa fa-google-plus"></i>
             </span>
