@@ -212,7 +212,5 @@
   <!-- Main.js File -->  
   <script type="text/javascript" src="js/main.js"></script>
 
-  <script type="text/javascript" src="js/demo.js"></script>
-
 </body>
 </html>

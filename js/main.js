@@ -8,7 +8,7 @@ $(document).ready(function(){
 
   //Adding fixed position to header
   $(document).scroll(function() {
-    if ($(document).scrollTop() >= 500) {
+    if ($(document).scrollTop() >= 600) {
       $('.navbar').addClass('navbar-fixed-top');
       $('html').addClass('has-fixed-nav');
     } else {
@@ -220,3 +220,25 @@ $(document).ready(function(){
 
 
 });
+
+function sendMail(){
+  $('#form-error').hide();
+  if($('#fullname').val() == "" || $('#email').val() == "" || $('#phone').val() == "" || $('#message').val() == "" || !validarEmail($('#email').val())){
+    $('#form-error').show();
+  }else{
+    $.post('sendMail.php',{nombre: $('#fullname').val(), mail: $('#email').val(), telefono: $('#phone').val(), mensaje: $('#message').val()}, function(data){
+      $('#form-sent').show();
+    });
+    
+  }
+}
+
+function validarEmail( email ) {
+  expr = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  if ( !expr.test(email) ){
+    return false;
+  }else{
+    return true;
+  }
+    
+}

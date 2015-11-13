@@ -149,7 +149,8 @@ p {
 -------------------------------------------------------------- */
 
 #home {
-  height: 500px;
+  /*height: 500px;*/
+  height: 600px;
   overflow: hidden;
   position: relative;
   background-color: rgba(0, 0, 0, 0.2);

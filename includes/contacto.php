@@ -40,37 +40,37 @@
       <div class="col-md-8 col-md-offset-2">
         <!-- Contact Form -->
         <div id="contact-form">
-          <div class="form-sent">
+          <div class="form-sent" id="form-sent">
             <div class="alert alert-success">
               <strong>Tu mensaje ha sido enviado con éxito.</strong> Gracias por contactarnos.
             </div>
           </div>
+          <div class="form-sent" id="form-error">
+            <div class="alert alert-danger">
+              Favor de completar todos los campos.
+            </div>
+          </div>
           <form method="post" action="contact.php" id="contact-us">
             <div class="col-md-5 col-sm-5 col-xs-12 animated hiding" data-animation="slideInLeft">
-              <div class="form-group">
-                <input type="text" name="fullname" class="form-control input-lg" placeholder="Nombre">
+              <div class="form-group" id="group-name">
+                <input type="text" name="fullname" id="fullname" class="form-control input-lg" placeholder="Nombre">
               </div>
               <div class="form-group">
-                <input type="email" name="email" class="form-control input-lg" placeholder="Email">
+                <input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email">
               </div>
               <div class="form-group">
-                <input type="text" name="phone" class="form-control input-lg" placeholder="Teléfono">
+                <input type="text" name="phone" id="phone" class="form-control input-lg" placeholder="Teléfono">
               </div>
             </div>
             <div class="col-md-7 col-sm-7 col-xs-12 animated hiding" data-animation="slideInRight">
               <div class="form-group">
-                <textarea name="message" class="form-control input-lg" placeholder="Mensaje"></textarea>
+                <textarea name="message" id="message" class="form-control input-lg" placeholder="Mensaje"></textarea>
               </div>
             </div>
-            <input type="button" class="btn btn-custom up animated hiding" value="Enviar Mensaje" data-animation="fadeInUpBig" onclick="send()">
+            <input type="button" class="btn btn-custom up animated hiding" value="Enviar Mensaje" data-animation="fadeInUpBig" onclick="sendMail()">
           </form>
         </div>
         <!-- End Contact Form -->
       </div>
     </div>        
   </section>
-  <script>
-function send(){
-  $('#form-sent').show();
-}
-  </script>
