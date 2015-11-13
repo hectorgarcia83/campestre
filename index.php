@@ -59,17 +59,6 @@
         <!-- Home Slider -->
         <div class="home-slider">
           <ul class="slides">
-            <!--
-            <li>
-              <h1>Preventa de terrenos campestres</h1>
-            </li>
-            <li>
-              <h1>Lotes desde 500 m2</h1>
-            </li>
-            <li>
-              <h1>Km 7 carretera a Culiacancito</h1>
-            </li>
-          -->
             <li>
               <h1>campestre el alamo</h1>
             </li>
