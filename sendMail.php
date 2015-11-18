@@ -1,6 +1,6 @@
 <?php 
 
-$to = "hectorgarcia83@gmail.com";
+$to = "hectorgarcia83@gmail.com,contacto@elalamocampestre.com";
 $subject = "Contacto via web";
 $body = "Una persona ha solicitado información desde el sitio web.";
 $body .= "<br><strong>Nombre: </strong> ".$_POST["nombre"];

@@ -18,26 +18,30 @@
     <!-- Stylesheets -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <!--<link rel="stylesheet" type="text/css" href="css/font-awesome.css">-->
     <link rel="stylesheet" type="text/css" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/flexslider.css">
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <link rel="stylesheet" type="text/css" href="css/demo.css">
+    
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
 
-    <!-- Color Scheme -->
-    <!--<link id="test" rel="stylesheet" type="text/css" href="css/colors/red.css">-->
-    <!-- <link rel="stylesheet" type="text/css" href="css/colors/blue.css"> -->
     <link rel="stylesheet" type="text/css" href="css/colors/green.css">
-    <!-- <link rel="stylesheet" type="text/css" href="css/colors/black.css"> -->  
-    <!-- <link rel="stylesheet" type="text/css" href="css/colors/yellow.css"> -->
+    
 
     <script>
       //google analytics code
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-32840860-13', 'auto');
+      ga('send', 'pageview');
+
 
     </script>
 
@@ -88,7 +92,9 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#home" id="logo"></a>
+        <a class="navbar-brand" href="#home" id="logo">
+          <img src="images/logo_horizontal.png" alt="">
+        </a>
       </div>
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="nav navbar-nav navbar-right" id="nav">
@@ -105,64 +111,38 @@
   </header>
   <!-- End Header -->  
 
-  <!-- About Section -->  
+  <!-- Proyecto Section -->  
   <?php include('includes/proyecto.php'); ?>
-  <!-- End About Section -->
+  <!-- End Proyecto Section -->
 
-  <!-- Team Section -->    
+  <!-- Amenidades Section -->    
   <?php include('includes/amenidades.php'); ?>
-  <!-- End Team Section -->
+  <!-- End Amenidades Section -->
 
   <!-- Numbers Section -->
   <?php include('includes/numbers.php'); ?>
   <!-- End Numbers Section -->
 
-  <!-- Services Section -->
+  <!-- Servicios Section -->
   <?php include('includes/services.php'); ?>
-  <!-- End Services Section -->
+  <!-- End Servicios Section -->
 
-  <!-- Portfolio Section -->    
+  <!-- Galeria Section -->    
   <?php include('includes/galeria.php'); ?>
-  <!-- End Portfolio Section -->
+  <!-- End Galeria Section -->
 
-  <!-- Pricing Section -->
+  <!-- Financiamiento Section -->
   <?php include('includes/financiamiento.php'); ?>
-  <!-- End Pricing Section -->
+  <!-- End Financiamiento Section -->
 
-  <!-- Clients Section -->
+  <!-- Clientes Section -->
   <?php include('includes/clientes.php'); ?>
-  <!-- End Clients Section -->
+  <!-- End Clientes Section -->
 
   <!-- Begin Contact Section-->
   <?php include('includes/contacto.php'); ?>
   <!-- End Contact Section-->
 
-  <!--
-  <div id="demo-switcher">
-    <div id="demo-menu">
-      <h4>Style Switcher</h4>
-      <div class="switcher">
-        <p>Color Scheme</p>
-        <ul class="theme-colors">
-          <li><a class="change-color" data-url="css/colors/red.css" href="#" style="background: #d95c5c"></a></li>
-          <li><a class="change-color" data-url="css/colors/blue.css" href="#" style="background: #428bca"></a></li>
-          <li><a class="change-color" data-url="css/colors/black.css" href="#" style="background: #333"></a></li>
-          <li><a class="change-color" data-url="css/colors/green.css" href="#" style="background: #00c077"></a></li>
-          <li><a class="change-color" data-url="css/colors/yellow.css" href="#" style="background: #f1c615"></a></li>
-        </ul>
-        <p>Home Page Templates:</p>
-        <select id="change-version" class="form-control">
-          <option value="index.html" selected="selected">Full Width Parallax Slider</option>
-          <option value="pattern-bg.html">Pattern Background</option>
-          <option value="video-bg.html">Video Background</option>
-        </select>
-      </div>
-    </div>
-    <div id="toggle-button">
-      <i class="fa fa-cog fa-2x"></i>
-    </div>
-  </div>
-  -->
   <!-- Footer -->
   <footer>
     <div class="container">

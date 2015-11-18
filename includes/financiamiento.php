@@ -9,7 +9,6 @@
         <div class="plan animated hiding" data-animation="fadeInUp" data-delay="0">
           <div class="plan-heading">
             <h3>Contado</h3>
-            <!--<p>Lorem Ipsum</p>-->
             <div class="circle-price">
               <span>$600 m2</span>
             </div>
@@ -20,11 +19,6 @@
             <li>Descuento del 10%<br>&nbsp;</li>
             <li>sobre el valor total del terreno</li>
           </ul>
-          <!--
-          <div class="buy-now">
-            <a class="btn btn-custom">Buy now</a>
-          </div>
-        -->
         </div>
         <!-- End Pricing Table -->
       </div>

@@ -24,7 +24,6 @@
           <div class="project-overlay">
             <i class="fa fa-plus-circle fa-3x"></i>
             <span class="project-name">Area Verde</span>
-            <!--<span>Photography / Branding</span>-->
           </div>
         </a>
       </li>
